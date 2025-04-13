@@ -1,67 +1,71 @@
-[
-    {
-      "id": 13,
-      "sector": "Transportation and mobility",
-      "total_jobs": 767
-    },
-    {
-      "id": 2,
-      "sector": "Built environment",
-      "total_jobs": 210
-    },
-    {
-      "id": 8,
-      "sector": "Food and agriculture",
-      "total_jobs": 234
-    },
-    {
-      "id": 6,
-      "sector": "Energy",
-      "total_jobs": 6074
-    },
-    {
-      "id": 5,
-      "sector": "Climate Science",
-      "total_jobs": 6
-    },
-    {
-      "id": 12,
-      "sector": "Policy and advocacy",
-      "total_jobs": 194
-    },
-    {
-      "id": 4,
-      "sector": "Capital",
-      "total_jobs": 91
-    },
-    {
-      "id": 3,
-      "sector": "GHG management and carbon removal",
-      "total_jobs": 301
-    },
-    {
-      "id": 9,
-      "sector": "Manufacturing and materials",
-      "total_jobs": 131
-    },
-    {
-      "id": 1,
-      "sector": "Adaptation & Resilience",
-      "total_jobs": 0
-    },
-    {
-      "id": 10,
-      "sector": "Natural resources, land and water",
-      "total_jobs": 199
-    },
-    {
-      "id": 11,
-      "sector": "Other enterprise (non-climate)",
-      "total_jobs": 4713
-    },
-    {
-      "id": 7,
-      "sector": "Environment",
-      "total_jobs": 923
-    }
-  ]
+{
+    "totalJobs": 94134,
+    "totalCompanies": 21980,
+    "sectors": [
+      {
+        "id": 13,
+        "sector": "Transportation and mobility",
+        "total_jobs": 767
+      },
+      {
+        "id": 2,
+        "sector": "Built environment",
+        "total_jobs": 210
+      },
+      {
+        "id": 8,
+        "sector": "Food and agriculture",
+        "total_jobs": 234
+      },
+      {
+        "id": 6,
+        "sector": "Energy",
+        "total_jobs": 6074
+      },
+      {
+        "id": 5,
+        "sector": "Climate Science",
+        "total_jobs": 6
+      },
+      {
+        "id": 12,
+        "sector": "Policy and advocacy",
+        "total_jobs": 194
+      },
+      {
+        "id": 4,
+        "sector": "Capital",
+        "total_jobs": 91
+      },
+      {
+        "id": 3,
+        "sector": "GHG management and carbon removal",
+        "total_jobs": 301
+      },
+      {
+        "id": 9,
+        "sector": "Manufacturing and materials",
+        "total_jobs": 131
+      },
+      {
+        "id": 1,
+        "sector": "Adaptation & Resilience",
+        "total_jobs": 0
+      },
+      {
+        "id": 10,
+        "sector": "Natural resources, land and water",
+        "total_jobs": 199
+      },
+      {
+        "id": 11,
+        "sector": "Other enterprise (non-climate)",
+        "total_jobs": 4713
+      },
+      {
+        "id": 7,
+        "sector": "Environment",
+        "total_jobs": 923
+      }
+    ]
+  }
